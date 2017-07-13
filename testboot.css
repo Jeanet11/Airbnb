@@ -1,0 +1,45 @@
+.inv {
+	/*border: none;
+	color: blue;
+	border-style: none;*/
+	visibility: hidden;
+}
+
+.row  {
+    margin-bottom: 15px;
+}
+
+/*.row [class^="col-"] {
+    
+    
+    background-color: #eee;
+    border: 1px solid #ddd;
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid rgba(86,61,124,.2);
+}
+*/
+
+.bord {
+	border: solid 1px;
+}
+
+p {
+	font-size: 0.8em;
+}
+
+.img {
+	
+	margin-left: 20px	;
+
+
+}
+
+.images {
+	list-style-type: none;
+}
+
+.rech {
+	background-color: red;
+	color: white;
+
+}
